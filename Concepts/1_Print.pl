@@ -10,7 +10,7 @@ use strict;
 use warnings;
 use diagnostics;
 
-print "Hey \n";        #this is a comment
+print "Hey \n";        #Output: Hey
 
 ############################################################
 
