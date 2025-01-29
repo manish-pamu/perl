@@ -1,3 +1,0 @@
-# perl
-Hello viewer...
-This repo contains code snippets of perl
